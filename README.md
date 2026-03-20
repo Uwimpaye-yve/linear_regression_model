@@ -6,4 +6,3 @@ Problem: Public health officials need to understand how schooling and childhood 
 ## Data Source
 ** Dataset: ** WHO Life Expectancy Data (sourced from Kaggle).
 ** Link to Dataset (Kaggle): https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
-5
