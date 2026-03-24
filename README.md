@@ -6,3 +6,5 @@ Problem: Public health officials need to understand how schooling and childhood 
 ## Data Source
 ** Dataset: ** WHO Life Expectancy Data (sourced from Kaggle).
 ** Link to Dataset (Kaggle): https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
+
+Note: If Github fails to render multivariate.ipynb notebook, please view it here on nbviewer: https://nbviewer.org/github/Uwimpaye-yve/linear_regression_model/blob/main/summative/linear_regression/multivariate.ipynb
